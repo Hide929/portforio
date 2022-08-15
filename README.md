@@ -14,3 +14,8 @@
 <img src="https://github.com/Hide929/portforio/blob/main/document/%E5%9F%BA%E7%9B%A4%20S-270.jpg" width="50%">
 
 <img src="https://github.com/Hide929/portforio/blob/main/document/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF.jpg" width="50%">
+
+
+|表紙|中面1|
+|---|---|
+|![](https://github.com/Hide929/portforio/blob/main/document/%E5%9F%BA%E7%9B%A4%20S-270.jpg)|![](https://github.com/Hide929/portforio/blob/main/document/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF.jpg)
