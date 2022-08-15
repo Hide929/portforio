@@ -11,11 +11,6 @@
 
 鳥人間部では上の画像にあるような人力飛行機の製作を行っています。私が主に担当していた操舵システムは機体の後ろについている尾翼を動かすシステムで、尾翼に取り付けたサーボモータをパイロットの手元のコントローラーで操作してもらいます。このようなシステムを実装するにあたり、主な作業としてマザーボードの設計、制御プログラムの実装、それらの保守運用を行っていました。その際に使用していたマイクロコンピュータはmbed1768というものです。
 
-<img src="https://github.com/Hide929/portforio/blob/main/document/%E5%9F%BA%E7%9B%A4%20S-270.jpg" width="50%">
-
-<img src="https://github.com/Hide929/portforio/blob/main/document/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF.jpg" width="50%">
-
-
-|表紙|中面1|
+|マザーボード|サーボモータ|
 |---|---|
 |![](https://github.com/Hide929/portforio/blob/main/document/%E5%9F%BA%E7%9B%A4%20S-270.jpg)|![](https://github.com/Hide929/portforio/blob/main/document/%E3%82%B5%E3%83%BC%E3%83%9C%E3%83%A2%E3%83%BC%E3%82%BF.jpg)
